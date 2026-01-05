@@ -7,7 +7,7 @@ on:
 jobs:
   docker:
     runs-on: ubuntu-latest
-    environment: Dev-Demo
+    environment: dev-demo
 
     steps:
       - name: Checkout code
